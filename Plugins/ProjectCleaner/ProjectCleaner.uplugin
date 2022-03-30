@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.6.0",
+	"FriendlyName": "ProjectCleaner",
+	"Description": "UE4 plugin for managing unused assets in project.",
+	"Category": "ProjectManagementTools",
+	"CreatedBy": "Ashot Barkhudaryan",
+	"CreatedByURL": "https://github.com/ashe23",
+	"DocsURL": "https://github.com/ashe23/ProjectCleaner",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4d7f5dc837fc4b009bb91e678adf9fd0",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ProjectCleaner",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}

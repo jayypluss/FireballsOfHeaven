@@ -1,0 +1,42 @@
+{
+	"Metadata":
+	{
+		"Classes":
+		{
+			"CubeBuilder":
+			{
+				"Fields":
+				{
+					"X":
+					{
+						"Bools":
+						{
+							"IsFavorite": true
+						}
+					},
+					"Y":
+					{
+						"Bools":
+						{
+							"IsFavorite": true
+						}
+					},
+					"Z":
+					{
+						"Bools":
+						{
+							"IsFavorite": true
+						}
+					},
+					"Hollow":
+					{
+						"Bools":
+						{
+							"IsFavorite": true
+						}
+					}
+				}
+			}
+		}
+	}
+}
