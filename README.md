@@ -6,6 +6,6 @@ Here below are some preview gifs of the game:
 
 ![Preview gif number one of the demo game](preview_01_15.gif)
 
-![Preview gif number one of the demo game](preview_01_15.gif)
+![Preview gif number one of the demo game](preview_02_15.gif)
 
-![Preview gif number one of the demo game](preview_01_15.gif)
+![Preview gif number one of the demo game](preview_03_15.gif)
